@@ -1,0 +1,7 @@
+# Mac related
+*.DS_Store
+
+# DEV related
+.vscode/*
+settings.json
+node_modules
